@@ -1,0 +1,31 @@
+## Xcode
+build/
+DerivedData/
+*.xcodeproj/xcuserdata/
+*.xcworkspace/xcuserdata/
+*.xcuserstate
+*.xcuserdatad/
+
+## macOS
+.DS_Store
+
+## Swift Package Manager
+.build/
+Packages/
+Package.resolved
+.swiftpm/
+
+## CocoaPods
+Pods/
+
+## Carthage
+Carthage/Build/
+
+## fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output
+
+## XcodeGen-generated
+LiveOrderTracker.xcodeproj/
