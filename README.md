@@ -8,7 +8,8 @@
 
 | Lock Screen | Dynamic Island (Compact) | Dynamic Island (Expanded) |
 |:---:|:---:|:---:|
-| _스크린샷 추가 예정_ | _스크린샷 추가 예정_ | _스크린샷 추가 예정_ |
+| <img src="Screenshots/lock-screen.png" width="240"/> | <img src="Screenshots/dynamic-island-compact.png" width="240"/> | <img src="Screenshots/dynamic-island-expanded.png" width="240"/> |
+| 잠금 화면 Live Activity — 상품명 / 상태 / 진행률 / 예상 시간 / 4단계 마커 | 컴팩트 — 좌측 상태 아이콘 + 우측 예상 시간 | 익스팬디드 — 상태 + 상품명 + 진행률 바 + 예상 시간 |
 
 ## Features
 
